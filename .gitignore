@@ -1,0 +1,5 @@
+/PythonVue/.vs
+/PythonVue/*.pyproj
+/PythonVue/*.sln
+/PythonVue/node_modules/
+/PythonVue/venv/

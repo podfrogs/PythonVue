@@ -1,0 +1,13 @@
+D:\dev\GilenticWeb2025\PythonVue
+npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+npm install -D typescript
+
+npx tailwindcss -i ./static/css/styles.css -o ./static/css/output.css --watch
+npx tsc
+
+npx tailwindcss -i ./static/css/styles.css -o ./static/css/output.css --minify
+
+npm install vue@3
+npm install -D @types/vue
